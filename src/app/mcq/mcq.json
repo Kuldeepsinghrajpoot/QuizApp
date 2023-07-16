@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "Q": "JSON stands for _______",
+    "a": "JavaScript Object Notation",
+    "b": "Java Object Notation",
+    "c": "JavaScript Object Normalization",
+    "d": "JavaScript Object-Oriented Notation",
+    "Answer": "JavaScript Object Notation",
+    " Explanation:": "JSON stands for JavaScript Object Notation."
+  },
+  {
+    "id": 2,
+    "Q": "JSON is a _____ for storing and transporting data.",
+    "a": "xml format",
+    "b": "text format",
+    "c": "JavaScript",
+    "d": "php format",
+    "e": "Answer: B) text format",
+    "Explanation": "JSON is a text format for storing and transporting data."
+  },
+  {
+    "id": 3,
+    "Q": "The JSON syntax is a subset of the _____ syntax",
+    "a": "Ajax",
+    "b": "Php",
+    "c": "HTML",
+    "d": "JavaScript",
+    "Answer": "JavaScript",
+    "Explanation": "The JSON syntax is a subset of the JavaScript syntax."
+  },
+  {
+    "id": 4,
+    "Q": "Who is the creator of JSON?",
+    "a": "Alvin Alexander",
+    "b": "Rasmus Lerdorf",
+    "c": "Douglas Crockford",
+    "d": "Jesse James Garrett",
+    "Answer": "Douglas Crockford",
+    "Explanation": "Douglas Crockford is the creator of JSON"
+  }
+]
